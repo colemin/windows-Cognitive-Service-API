@@ -1,0 +1,1655 @@
+{
+  "documents": [
+    {
+      "id": "10155009186811033_10155009214061033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009214416033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009214501033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009215321033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009216686033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009217561033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009218426033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009218471033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009221591033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009221636033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009221686033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009221881033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009222071033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009222896033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009223091033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009225671033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009226226033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009227716033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009228931033", 
+      "detectedLanguages": [
+        {
+          "score": 0.0, 
+          "name": "(Unknown)", 
+          "iso6391Name": "(Unknown)"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009230051033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009233906033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009235351033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009236926033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009243716033", 
+      "detectedLanguages": [
+        {
+          "score": 0.9411764740943909, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009247031033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009248686033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009249211033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009255101033", 
+      "detectedLanguages": [
+        {
+          "score": 0.0, 
+          "name": "(Unknown)", 
+          "iso6391Name": "(Unknown)"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009257551033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009266016033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009270461033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009271801033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009274486033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009278311033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009280981033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009285216033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009289721033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009290896033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009298621033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009311891033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009315201033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009322461033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009325811033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009327506033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009329411033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009329896033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009340626033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009341326033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009341436033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009349656033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009351141033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009358271033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009363141033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009365736033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009367111033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009370931033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009375996033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009376996033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009386961033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "French", 
+          "iso6391Name": "fr"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009399096033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009403431033", 
+      "detectedLanguages": [
+        {
+          "score": 0.5, 
+          "name": "Afrikaans", 
+          "iso6391Name": "af"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009403461033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009407516033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009408066033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009410306033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009417856033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009419636033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009420636033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009424361033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009427171033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009436446033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "French", 
+          "iso6391Name": "fr"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009436736033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009443986033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009444961033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009445801033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009446946033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009447616033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009454831033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009457556033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009459356033", 
+      "detectedLanguages": [
+        {
+          "score": 0.0, 
+          "name": "(Unknown)", 
+          "iso6391Name": "(Unknown)"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009475986033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009480096033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009481101033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009481466033", 
+      "detectedLanguages": [
+        {
+          "score": 0.6666666269302368, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009485311033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009489991033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009498766033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009504886033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009507986033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009510236033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009524881033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009526516033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009529171033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009530556033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009531991033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009533746033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009534956033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009539331033", 
+      "detectedLanguages": [
+        {
+          "score": 0.75, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009552596033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009565946033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009570066033", 
+      "detectedLanguages": [
+        {
+          "score": 0.875, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009570741033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009572851033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009576696033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009578486033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009581071033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009581276033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009581746033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009585366033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009586436033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009589276033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009596926033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009609246033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009614621033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009615781033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009616346033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009623691033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009624251033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009625921033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009627616033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009631576033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009634586033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009637631033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009642571033", 
+      "detectedLanguages": [
+        {
+          "score": 0.5, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009644596033", 
+      "detectedLanguages": [
+        {
+          "score": 0.0, 
+          "name": "(Unknown)", 
+          "iso6391Name": "(Unknown)"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009646481033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009649036033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009678386033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009685116033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009691876033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009702641033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009705306033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009706841033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009707941033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009715031033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009717026033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009720506033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009721216033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009745036033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009775571033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009783811033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009792651033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009806181033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009818951033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009825511033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009833076033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009836591033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009838206033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009870646033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009873216033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009877536033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009880336033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009882996033", 
+      "detectedLanguages": [
+        {
+          "score": 0.875, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009902366033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009902696033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009903931033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009910646033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009915711033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009923821033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009927256033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009929596033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Galician", 
+          "iso6391Name": "gl"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009936181033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009951356033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "English", 
+          "iso6391Name": "en"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009970906033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }, 
+    {
+      "id": "10155009186811033_10155009973566033", 
+      "detectedLanguages": [
+        {
+          "score": 1.0, 
+          "name": "Spanish", 
+          "iso6391Name": "es"
+        }
+      ]
+    }
+  ], 
+  "errors": []
+}

@@ -1,0 +1,802 @@
+{
+  "documents": [
+    {
+      "score": 0.6675093173980713, 
+      "id": "10154665796286033_302022270236948"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1919740691594770"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_302022930236882"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_413460929053604"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_413461195720244"
+    }, 
+    {
+      "score": 0.8042954206466675, 
+      "id": "10154665796286033_457265677970481"
+    }, 
+    {
+      "score": 0.5616457462310791, 
+      "id": "10154665796286033_413461289053568"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1364886546927909"
+    }, 
+    {
+      "score": 0.962045431137085, 
+      "id": "10154665796286033_413461645720199"
+    }, 
+    {
+      "score": 0.8252984881401062, 
+      "id": "10154665796286033_1397451047009851"
+    }, 
+    {
+      "score": 0.8083460330963135, 
+      "id": "10154665796286033_1945743238987412"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1693434930966194"
+    }, 
+    {
+      "score": 0.6800692677497864, 
+      "id": "10154665796286033_272611636481388"
+    }, 
+    {
+      "score": 0.5701324939727783, 
+      "id": "10154665796286033_1397456533675969"
+    }, 
+    {
+      "score": 0.48606574535369873, 
+      "id": "10154665796286033_1397457383675884"
+    }, 
+    {
+      "score": 0.706843376159668, 
+      "id": "10154665796286033_1693435427632811"
+    }, 
+    {
+      "score": 0.592223048210144, 
+      "id": "10154665796286033_305768536518198"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_305768606518191"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_1945746865653716"
+    }, 
+    {
+      "score": 0.7582153081893921, 
+      "id": "10154665796286033_272612629814622"
+    }, 
+    {
+      "score": 0.6449316740036011, 
+      "id": "10154665796286033_241942046288923"
+    }, 
+    {
+      "score": 0.8030858039855957, 
+      "id": "10154665796286033_272612803147938"
+    }, 
+    {
+      "score": 0.8815931677818298, 
+      "id": "10154665796286033_272612873147931"
+    }, 
+    {
+      "score": 0.9031190276145935, 
+      "id": "10154665796286033_272612916481260"
+    }, 
+    {
+      "score": 0.4881729483604431, 
+      "id": "10154665796286033_1315831685119311"
+    }, 
+    {
+      "score": 0.5042623281478882, 
+      "id": "10154665796286033_305769873184731"
+    }, 
+    {
+      "score": 0.353267639875412, 
+      "id": "10154665796286033_1315835398452273"
+    }, 
+    {
+      "score": 0.5424595475196838, 
+      "id": "10154665796286033_1693437247632629"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_272613959814489"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1315835925118887"
+    }, 
+    {
+      "score": 0.9216652512550354, 
+      "id": "10154665796286033_1237337993054943"
+    }, 
+    {
+      "score": 0.8154868483543396, 
+      "id": "10154665796286033_136431863582673"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1237339279721481"
+    }, 
+    {
+      "score": 0.863861083984375, 
+      "id": "10154665796286033_136453003580559"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1895350050683582"
+    }, 
+    {
+      "score": 0.7702702879905701, 
+      "id": "10154665796286033_1237340243054718"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_469013956767423"
+    }, 
+    {
+      "score": 0.6385695934295654, 
+      "id": "10154665796286033_1237340503054692"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_364881267260923"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1237342239721185"
+    }, 
+    {
+      "score": 0.6628032922744751, 
+      "id": "10154665796286033_1237343049721104"
+    }, 
+    {
+      "score": 0.9301918148994446, 
+      "id": "10154665796286033_808540485971428"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_1895351270683460"
+    }, 
+    {
+      "score": 0.8754312992095947, 
+      "id": "10154665796286033_136454630247063"
+    }, 
+    {
+      "score": 0.7049424052238464, 
+      "id": "10154665796286033_808540849304725"
+    }, 
+    {
+      "score": 0.6222051978111267, 
+      "id": "10154665796286033_364882780594105"
+    }, 
+    {
+      "score": 0.774742603302002, 
+      "id": "10154665796286033_1895351517350102"
+    }, 
+    {
+      "score": 0.5572043657302856, 
+      "id": "10154665796286033_364883037260746"
+    }, 
+    {
+      "score": 0.5433104634284973, 
+      "id": "10154665796286033_364883040594079"
+    }, 
+    {
+      "score": 0.3645508289337158, 
+      "id": "10154665796286033_314923758937977"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_314924822271204"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_136455576913635"
+    }, 
+    {
+      "score": 0.994488000869751, 
+      "id": "10154665796286033_1895352400683347"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469016673433818"
+    }, 
+    {
+      "score": 0.7597851157188416, 
+      "id": "10154665796286033_136456133580246"
+    }, 
+    {
+      "score": 0.5157507061958313, 
+      "id": "10154665796286033_136456153580244"
+    }, 
+    {
+      "score": 0.8846153616905212, 
+      "id": "10154665796286033_364883977260652"
+    }, 
+    {
+      "score": 0.5732923746109009, 
+      "id": "10154665796286033_469017370100415"
+    }, 
+    {
+      "score": 0.5027679204940796, 
+      "id": "10154665796286033_1237351739720235"
+    }, 
+    {
+      "score": 0.6135035753250122, 
+      "id": "10154665796286033_1237351953053547"
+    }, 
+    {
+      "score": 0.5027679204940796, 
+      "id": "10154665796286033_314928415604178"
+    }, 
+    {
+      "score": 0.985602617263794, 
+      "id": "10154665796286033_469017806767038"
+    }, 
+    {
+      "score": 0.4641151428222656, 
+      "id": "10154665796286033_1237353043053438"
+    }, 
+    {
+      "score": 0.5127184987068176, 
+      "id": "10154665796286033_136456973580162"
+    }, 
+    {
+      "score": 0.5493302941322327, 
+      "id": "10154665796286033_1237353236386752"
+    }, 
+    {
+      "score": 0.3796432614326477, 
+      "id": "10154665796286033_136457346913458"
+    }, 
+    {
+      "score": 0.6489194631576538, 
+      "id": "10154665796286033_808558212636322"
+    }, 
+    {
+      "score": 0.5735925436019897, 
+      "id": "10154665796286033_1237357906386285"
+    }, 
+    {
+      "score": 0.5623360276222229, 
+      "id": "10154665796286033_1237358053052937"
+    }, 
+    {
+      "score": 0.7701159715652466, 
+      "id": "10154665796286033_364887080593675"
+    }, 
+    {
+      "score": 0.6118366122245789, 
+      "id": "10154665796286033_282028565601021"
+    }, 
+    {
+      "score": 0.5118685960769653, 
+      "id": "10154665796286033_1895358364016084"
+    }, 
+    {
+      "score": 0.9407849311828613, 
+      "id": "10154665796286033_314932075603812"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_469023073433178"
+    }, 
+    {
+      "score": 0.5616457462310791, 
+      "id": "10154665796286033_808561675969309"
+    }, 
+    {
+      "score": 0.6143085956573486, 
+      "id": "10154665796286033_282030142267530"
+    }, 
+    {
+      "score": 0.8620736598968506, 
+      "id": "10154665796286033_364889107260139"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_314933825603637"
+    }, 
+    {
+      "score": 0.5033886432647705, 
+      "id": "10154665796286033_469023580099794"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_314934008936952"
+    }, 
+    {
+      "score": 0.601810097694397, 
+      "id": "10154665796286033_314934232270263"
+    }, 
+    {
+      "score": 0.6809126138687134, 
+      "id": "10154665796286033_1237367069718702"
+    }, 
+    {
+      "score": 0.7631287574768066, 
+      "id": "10154665796286033_282031402267404"
+    }, 
+    {
+      "score": 0.7125154137611389, 
+      "id": "10154665796286033_136477550244771"
+    }, 
+    {
+      "score": 0.5616457462310791, 
+      "id": "10154665796286033_1895361117349142"
+    }, 
+    {
+      "score": 0.6071391105651855, 
+      "id": "10154665796286033_1237367863051956"
+    }, 
+    {
+      "score": 0.6284839510917664, 
+      "id": "10154665796286033_314935138936839"
+    }, 
+    {
+      "score": 0.5616457462310791, 
+      "id": "10154665796286033_364891297259920"
+    }, 
+    {
+      "score": 0.37203705310821533, 
+      "id": "10154665796286033_808566902635453"
+    }, 
+    {
+      "score": 0.6966976523399353, 
+      "id": "10154665796286033_1895364594015461"
+    }, 
+    {
+      "score": 0.6677640080451965, 
+      "id": "10154665796286033_314935838936769"
+    }, 
+    {
+      "score": 0.4583679735660553, 
+      "id": "10154665796286033_282033795600498"
+    }, 
+    {
+      "score": 0.30987584590911865, 
+      "id": "10154665796286033_364892623926454"
+    }, 
+    {
+      "score": 0.5709044933319092, 
+      "id": "10154665796286033_314936372270049"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_314936658936687"
+    }, 
+    {
+      "score": 0.5204485654830933, 
+      "id": "10154665796286033_1895365510682036"
+    }, 
+    {
+      "score": 0.6359471678733826, 
+      "id": "10154665796286033_808570075968469"
+    }, 
+    {
+      "score": 0.6483407616615295, 
+      "id": "10154665796286033_136479390244587"
+    }, 
+    {
+      "score": 0.30208146572113037, 
+      "id": "10154665796286033_808570945968382"
+    }, 
+    {
+      "score": 0.5616457462310791, 
+      "id": "10154665796286033_1895366744015246"
+    }, 
+    {
+      "score": 0.41152629256248474, 
+      "id": "10154665796286033_314937772269909"
+    }, 
+    {
+      "score": 0.31004661321640015, 
+      "id": "10154665796286033_314938095603210"
+    }, 
+    {
+      "score": 0.379308819770813, 
+      "id": "10154665796286033_364895107259539"
+    }, 
+    {
+      "score": 0.4943947196006775, 
+      "id": "10154665796286033_808574885967988"
+    }, 
+    {
+      "score": 0.43970662355422974, 
+      "id": "10154665796286033_1895370074014913"
+    }, 
+    {
+      "score": 0.5633821487426758, 
+      "id": "10154665796286033_314939542269732"
+    }, 
+    {
+      "score": 0.8677879571914673, 
+      "id": "10154665796286033_364895717259478"
+    }, 
+    {
+      "score": 0.5803545713424683, 
+      "id": "10154665796286033_469031326765686"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_136484220244104"
+    }, 
+    {
+      "score": 0.8935322761535645, 
+      "id": "10154665796286033_808580022634141"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_364897703925946"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_136484703577389"
+    }, 
+    {
+      "score": 0.5891833305358887, 
+      "id": "10154665796286033_314941512269535"
+    }, 
+    {
+      "score": 0.5724014043807983, 
+      "id": "10154665796286033_282043512266193"
+    }, 
+    {
+      "score": 0.8651657700538635, 
+      "id": "10154665796286033_808583189300491"
+    }, 
+    {
+      "score": 0.4277556538581848, 
+      "id": "10154665796286033_466803380327475"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_853551774802099"
+    }, 
+    {
+      "score": 0.8999999761581421, 
+      "id": "10154665796286033_853551974802079"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_787862444701057"
+    }, 
+    {
+      "score": 0.41423311829566956, 
+      "id": "10154665796286033_1923628327922461"
+    }, 
+    {
+      "score": 0.5324122905731201, 
+      "id": "10154665796286033_1913482695533592"
+    }, 
+    {
+      "score": 0.7833561897277832, 
+      "id": "10154665796286033_298975710547205"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_1920101674873091"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_469473893391696"
+    }, 
+    {
+      "score": 0.5757744312286377, 
+      "id": "10154665796286033_469474070058345"
+    }, 
+    {
+      "score": 0.7191839218139648, 
+      "id": "10154665796286033_431914457176587"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_310693296031067"
+    }, 
+    {
+      "score": 0.5018616914749146, 
+      "id": "10154665796286033_310693672697696"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_1318870134869173"
+    }, 
+    {
+      "score": 0.9744100570678711, 
+      "id": "10154665796286033_310694562697607"
+    }, 
+    {
+      "score": 0.8397248387336731, 
+      "id": "10154665796286033_298978193880290"
+    }, 
+    {
+      "score": 0.7845354080200195, 
+      "id": "10154665796286033_431916197176413"
+    }, 
+    {
+      "score": 0.6075846552848816, 
+      "id": "10154665796286033_469477800057972"
+    }, 
+    {
+      "score": 0.8344253301620483, 
+      "id": "10154665796286033_298978680546908"
+    }, 
+    {
+      "score": 0.7227700352668762, 
+      "id": "10154665796286033_1740573266240901"
+    }, 
+    {
+      "score": 0.9217569828033447, 
+      "id": "10154665796286033_1740573996240828"
+    }, 
+    {
+      "score": 0.7464894652366638, 
+      "id": "10154665796286033_1920124328204159"
+    }, 
+    {
+      "score": 0.9166666865348816, 
+      "id": "10154665796286033_1740576626240565"
+    }, 
+    {
+      "score": 0.5738964080810547, 
+      "id": "10154665796286033_469482383390847"
+    }, 
+    {
+      "score": 0.4182342290878296, 
+      "id": "10154665796286033_310700756030321"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_1318909354865251"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_298986977212745"
+    }, 
+    {
+      "score": 0.5166615843772888, 
+      "id": "10154665796286033_469489273390158"
+    }, 
+    {
+      "score": 0.6257944107055664, 
+      "id": "10154665796286033_298987313879378"
+    }, 
+    {
+      "score": 0.48919677734375, 
+      "id": "10154665796286033_1920130841536841"
+    }, 
+    {
+      "score": 0.7147308588027954, 
+      "id": "10154665796286033_1740599349571626"
+    }, 
+    {
+      "score": 0.9562700986862183, 
+      "id": "10154665796286033_1919741154928057"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_272611103148108"
+    }, 
+    {
+      "score": 0.2581818699836731, 
+      "id": "10154665796286033_1945745842320485"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_272612443147974"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1397460710342218"
+    }, 
+    {
+      "score": 0.8427907228469849, 
+      "id": "10154665796286033_305770063184712"
+    }, 
+    {
+      "score": 0.9774621725082397, 
+      "id": "10154665796286033_282022605601617"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469015206767298"
+    }, 
+    {
+      "score": 0.9996203184127808, 
+      "id": "10154665796286033_136454660247060"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1895351430683444"
+    }, 
+    {
+      "score": 0.9993182420730591, 
+      "id": "10154665796286033_364882937260756"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_136456196913573"
+    }, 
+    {
+      "score": 0.951725959777832, 
+      "id": "10154665796286033_136456213580238"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1895358480682739"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_1895358750682712"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469022670099885"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_136478446911348"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469026590099493"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_808575459301264"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469031460099006"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469479450057807"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_310697946030602"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_241939252955869"
+    }, 
+    {
+      "score": 0.5297076106071472, 
+      "id": "10154665796286033_1693437194299301"
+    }, 
+    {
+      "score": 0.7598397731781006, 
+      "id": "10154665796286033_808558619302948"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_136477973578062"
+    }, 
+    {
+      "score": 0.7892804145812988, 
+      "id": "10154665796286033_1237372796384796"
+    }, 
+    {
+      "score": 0.6270206570625305, 
+      "id": "10154665796286033_314937918936561"
+    }, 
+    {
+      "score": 0.5, 
+      "id": "10154665796286033_469475483391537"
+    }, 
+    {
+      "score": 1.0, 
+      "id": "10154665796286033_1740566569574904"
+    }, 
+    {
+      "score": 0.5882940292358398, 
+      "id": "10154665796286033_853550314802245"
+    }
+  ], 
+  "errors": [
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_1364884783594752"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_457264244637291"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_413461132386917"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_1315824091786737"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_272612406481311"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_364880380594345"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_469013686767450"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_469013870100765"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_1237340209721388"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_364881330594250"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_364881563927560"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_469015250100627"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_1895352410683346"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_364885560593827"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_808567775968699"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_282033748933836"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_314936638936689"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_469028196765999"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_808572749301535"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_152885011919855"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_298985577212885"
+    }, 
+    {
+      "message": "Supplied language is not supported. Pass in one of: ar,da,de,el,en,es,fi,fr,it,ja,nl,no,pl,pt-PT,ru,sv,tr,zh-Hans. See https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview for the complete list of support languages.", 
+      "id": "10154665796286033_431925687175464"
+    }
+  ]
+}
